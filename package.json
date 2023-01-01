@@ -1,0 +1,23 @@
+{
+  "name": "chrome-extension",
+  "version": "1.0.0",
+  "description": "For Hyperledger fabric Connection",
+  "scripts": {
+    "dev": "webpack --watch --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishansudani/Chrome-Extension.git"
+  },
+  "keywords": [
+    "Hyperledger",
+    "fabric"
+  ],
+  "author": "kishansudani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishansudani/Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/kishansudani/Chrome-Extension#readme"
+}
